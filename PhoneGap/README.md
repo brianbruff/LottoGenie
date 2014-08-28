@@ -1,0 +1,4 @@
+LottoGenie
+==========
+
+A lottery Helper
